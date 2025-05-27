@@ -5,3 +5,4 @@ description = "CAD CLI and MCP server for AI agents"
 requires-python = ">=3.10"
 # drop an unused branch
 # handle the edge case from the last release
+# handle the edge case from the last release
